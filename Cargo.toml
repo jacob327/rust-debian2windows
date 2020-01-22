@@ -1,0 +1,11 @@
+[package]
+name = "mt4_dll"
+version = "0.1.0"
+authors = ["jacob-laptop <jacob32727@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+
+[lib]
+crate-type = ["dylib"]
+
